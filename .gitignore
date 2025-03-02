@@ -1,0 +1,15 @@
+# Node modules (massive files, never commit)
+node_modules/
+ 
+# Environment variables
+.env
+
+# Build files
+build/
+
+# Logs & system files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
